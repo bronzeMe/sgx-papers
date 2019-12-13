@@ -82,9 +82,14 @@ BITE: Bitcoin Lightweight Client Privacy using Trusted Execution | SEC'19 | [lin
 Towards Memory Safe Enclave Programming with Rust-SGX | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3319535.3354241)
 A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3363206)
 OPERA: Open Remote Attestation for Intel’s Secure Enclaves | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3354220)
+<<<<<<< HEAD
 SGXJail: Defeating Enclave Malware via Confinement|RAID'19|[link](https://www.usenix.org/conference/raid2019/presentation/weiser)
 Time and Order: Towards Automatically Identifying Side-Channel Vulnerabilities in Enclave Binaries|RAID'19|[link](https://www.usenix.org/conference/raid2019/presentation/wang-wubing)
 Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX|MobiCom'19|[link](https://dl.acm.org/citation.cfm?id=3345447)
+=======
+AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/mw19-acctee.pdf)
+EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
+>>>>>>> fdb3aab14329d9cc0cdd9c9dd7b89482a5fc6989
 
 Unpublished, tech-reports, or open-access:
 
